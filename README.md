@@ -36,7 +36,7 @@ This work was inspired by others:
 
 For instructions on how to download and import the Content Packs into
 Foreflight (**recommended**), please browse the `contentpacks`
-directory of this repository and download/share them into the
+directory of this repository and download/share **Airport Restaurants.zip** into the
 app. Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
 page](https://www.foreflight.com/support/content-packs/) (search for
@@ -82,7 +82,7 @@ flight clubs, 3rd party content, etc. I envision a subscription service that
 provided valuable content on various contant that would currate and 
 keep up-to-date.
 
-Send your support for these request to [ForeFlight Support support@foreflight.com](mailto:support@foreflight.com).
+Send your support for these request to ForeFlight Support [support@foreflight.com](mailto:support@foreflight.com).
 
  
 # Legal Disclaimer
