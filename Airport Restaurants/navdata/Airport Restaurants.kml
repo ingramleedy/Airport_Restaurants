@@ -1,0 +1,4149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Airport Restaurants</name>
+    <description>List of Restaurants at Airports</description>
+    <Style id="icon-1567-7CB342-labelson">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1567-7CB342-labelson-nodesc">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>Airport Restaurants </name>
+      <Placemark>
+        <name>The Junction (KPGD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.9979669,26.9162431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jet Runway Cafe (KFXE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1716536,26.1949841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suncoast Cafe (KVNC)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.4376,27.0778861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Runway Cafe (KSEF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.3455734,27.4554042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Landing Strip Cafe (KOBE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.8549922,27.2656614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Tiki (KFPR)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.364828,27.4878139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[C.J. Cannon's (KVRB)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.417765,27.6515679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hangar (KSPG)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.6333617,27.7647982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flightline Cafe (KGIF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.753501,28.0653482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Island Hopperz (KEVB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.9425821,29.0569816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lost Lagoon Wings (KEVB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.9416215,29.0576622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Prop & Fore Lounge (7FL6)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0475957,29.0756998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gin Mill (KDED)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.283819,29.061425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Perfect Spot (KDED)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.279279,29.063578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elevation89 (KOCF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.2200458,29.1718509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pyper Kub Cafe (X60)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.471847,29.3604658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>High Jackers (KFIN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.2080829,29.4723335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Happy Hangar Café (X39)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.3709046,28.2183132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Short Cakes (X14)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.432455,26.7466276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skydive City/Z-Hills (KZPH)</name>
+        <description>Sandwich shop in the skydive center</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -82.1506347,28.2198462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>River Ranch Saloon (2RR)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.1939954,27.7693512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Everglades Airpark (X01)</name>
+        <description>Rent a bike to go into town. </description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -81.389244,25.8485641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arcadia Municipal Airport (X06)</name>
+        <description>Taco Tuesady’s</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -81.8385467,27.1970348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Steak 'n Shake (KFMY)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.869693,26.588779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Wing Restaurant ( FA42)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.8473319,28.5286097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WACO Kitchen (KLAL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.0143429,27.9942701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Last Call Beach Bar (KEYW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7548949,24.5538041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Conch Flyer (KEYW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7549277,24.553368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taqueria los consentidos (2J8)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.4627987,29.2455555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[M&E BBQ (2J8)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.4676621,29.2527124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Westgate River Ranch Resort & Rodeo]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.1928852,27.77064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jet-A-Way Cafe (KSFB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.2505208,28.7768988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zoo Bar (X26)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5009296,27.8164752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sharky's On the Pier (KVNC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.4504812,27.0729562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar One Bistro (KSGJ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.3429005,29.9542432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southern Soul BBQ (KSSI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.387942,31.159615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Farmhouse (KLCQ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5819107,30.1881865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar 7 (KLCQ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5752997,30.188821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sam's Kitchen (KEUF)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.125309,31.9493084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Mill Restaurant (B06)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.3598403,44.1950569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dinner Table (KEEN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.2656971,42.9030768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Midfield Cafe (KASH)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.5170412,42.7806815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sam Adams Café & Pub (KMHT)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.4395606,42.9270095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Diner (KMHT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.4532953,42.9454534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Airfield Cafe (7B3)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.8315983,42.9612109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Runway Restaurant (63B)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.6660917,43.76221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cheesy Skillet (KLEW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.2870961,44.0489083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thai With Us (KAUG)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -69.793679,44.3176051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cherry Ridge Airport (N30)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.252521,41.514155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Capricio's Pizza (S37)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.2046525,40.0401034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hudson Botanical - Café (S37)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.2070355,40.0400221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fiorentino's Italian (KLNS)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.299501,40.1189669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Fiesta Mexican Bar and Grill (KAOO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.3238979,40.2950368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cloud 9 Restaurant (KIPT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.918905,41.245283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight Deck Restaurant (KDUJ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.8925363,41.1831136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DeNunzio’s Italian (KLBE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.405896,40.2730052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Serventi's (KBTP)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9475688,40.7791319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Primo Barone's (KFKL)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8582773,41.377474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hummingbird Cafe (KCBE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.7652855,39.6179802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ali Baba Restaurant (KMGW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.920114,39.6438457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copper House Grill (4G7)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1673748,39.4452691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[D J's 50'S & 60'S Diner (4G7)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.166105,39.446718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jerry’s FlyAway Kitchen (KPKB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.4358846,39.3449097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Airport Restaurant & Lounge (KBKW)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.121293,37.7843387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fly In Cafe (I41)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.310755,38.4597729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giovanni’s (KHTS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5554796,38.3693243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skyline Family (KPMH)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.8501936,38.8405141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cloud 9 Cafe (KSJS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.6428308,37.7479071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burger Hut (OA9)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.1769418,36.3668743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southernaire  Restaurant (M93)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.919401,36.314768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hangar Bar and Grill (KEKY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.9235859,33.3125565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Prop Diner (KCMD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8586987,34.270885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jet-a-Way Cafe (KHSA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.4510876,30.3731838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Messina's Runway Cafe (KNEW)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0256667,30.0359611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grider Field Restaurant (KPBF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9381803,34.1789081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gaston's White River Resort (3M0)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.5600787,36.3470475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Flightline Bar & Grill (KASG)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.1218338,36.1740071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airways Cafe (KDXE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.9390053,36.783883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bluehaven Cafe (KUIN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -91.1940224,39.9368924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Steakhouse (KMTO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2830975,39.4825843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moonlite BBQ (KOWB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.1487387,37.7566821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rough River Dam Resort State Park (2I3)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.502502,37.610492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Relais (KLOU)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6662592,38.2234674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Cafe (I74)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.7491789,40.1328533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tin Goose Diner (KPCW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.8645623,41.50873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Maggoo's Pizza (KPHD)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.41868,40.471543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5 (Five) Barrel Bullet Brewing Co. (KPHD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.4202272,40.4728581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Blackerby's Hangar 5 (KBAK)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.8964821,39.2554299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Afterburner Club (KHUF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.2918916,39.4521554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Final Approach (KGPC)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8163528,39.6366767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rick's Café Boatyard (KEYE)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.3009527,39.8276859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prop Blast Cafe (KOEB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.0545719,41.9355541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Apron (KJXN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4605608,42.2562808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fly Inn (61D)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6422426,42.4667637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scooters Airport Bar (80D)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.8079058,44.0533526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paddle Inn (51M)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1293573,44.6734946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polish Kitchen (KMGN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.9092991,45.427462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Grill (40D)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.1179165,45.7960696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar 54 Grill (KEAU)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -91.4827224,44.862374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wings Airport Cafe (KBRD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.1405623,46.3932985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Holman's Table (KSTP)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0648635,44.9419323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fuel Cafe (KSBM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.8578145,43.759997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sam's Airport Diner (KLNR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.1917473,43.2133205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pat O'Malley's Jet Room (KMSN)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.3265023,43.1399763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Greco (KMWC)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.0269424,43.1129399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bessie's Diner (KJVL)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.0415017,42.6154812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight Deck Bar (KRPJ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.072173,41.892196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kitty Hawk Cafe (KDPA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2551442,41.9067701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pilot Pete's (06C)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.1024172,41.9908345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Charlie's (1C5)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.1281664,41.6956939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lynnie Ques (KIGQ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.5376635,41.5425744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Afternooner's (KGRI)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.3184658,40.9693541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Inn (KLBF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.6977823,41.132677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ROMA Italian (KBFF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.5932001,41.8694607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barnstormer (KGXY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.6370423,40.4263879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mi Tierra (KCFO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.5493692,39.7909871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Perfect Landing (KAPA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.8476843,39.5785015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Airplane Rest (KCOS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.7262954,38.8067398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butterfly Cafe (KGLD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -101.7053425,39.3728517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>K-18 Café (38K)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.5280406,39.0589041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Steakhouse (KHUT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.8661077,38.0649296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Stearman Field Bar & Grill (1K1)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.1131099,37.780733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tammy's Billiard Restaurant (KTOP)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.6281754,39.067372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[We B Smokin' (K81)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9215297,38.5365037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Enrique's Mexican (KPNC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.1015524,36.7291602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barnstormers (KWDG)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.787648,36.3835904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jakes Joint (KADM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.0268864,34.2995142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wing It Cafe (T67)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.4142455,32.9346186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Radial Cafe (KGPM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.0450697,32.7005897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Delta Charlie's Bar & Grill (KRBD)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.8645061,32.680679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pulido's Restaurant (KSEP)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1868285,32.2157582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hard Eight Barbeque (KSEP)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1868949,32.2120385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mathis Field Cafe (KSJT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.5029605,31.3571297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angelina County Cafe (KLFK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.7536456,31.231893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Walnut Cafe (KCXO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.4106107,30.345265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Aviator's Grill (KDWH)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.551163,30.0701768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carl's BBQ (21TA)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.6444397,29.9335709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Runway Cafe (KLBX)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.4595134,29.1116391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Restaurant (KVCT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.9209073,28.8395339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar 6 Air Cafe (KUVA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.7433025,29.2186709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Brown Bag Sandwich Shop (KSAT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.4440922,29.5409771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Diner (T82)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.9080196,30.2445017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>English Field House (KAMA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -101.7098102,35.2168765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hogg's BBQ (KDUX)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -102.0119627,35.8636941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Red Baron (KDHT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -102.5496225,36.027878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Grille (KALM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -105.9944151,32.8394716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>No Worries Sports Bar (KFMN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.2281858,36.7392597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Badlands Grill (KGUP)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.7811185,35.5155178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nogales Airport Cafe (KOLS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -110.8501434,31.418291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Rider Cafe (KAVQ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.2196767,32.4030414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bent Prop Saloon (E60)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.5812539,32.8047412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar Café (KCHD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.8117493,33.2725855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steak and Stone (KFFZ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.7193383,33.4629915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crosswinds (KPAN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.3375719,34.2561027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Susie's Skyway (KPRC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.4272222,34.6497222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mesa Grill Sedona (KSEZ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.7887882,34.8504318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afterburner (KNYL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.5931981,32.6590641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar 24 Lake Havasu (KHII)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.3613859,34.5692775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kingman Airport Cafe (KIGM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -113.9442339,35.2588774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Landings (KHND)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -115.1391,35.97727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Happy Landing (KTWF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.4850087,42.4834399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warbirds Cafe (KDIJ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.1054062,43.7385032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar Cafe (KHRF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.1268791,46.2527204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tower Grill (KMAN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.5239073,43.5833441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Cafe (KEUL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.6422377,43.6418987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skyway Cafe (KSFF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.3199859,47.6805285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Elvis's Bar & Grill (KPDT)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.8395117,45.6895079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ann's Best Creole (KRLD)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.301264,46.3009392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[CJ's  (KBDN)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.2026529,44.0931553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dakota Cafe (CYYJ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.421223,48.645514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ernie's Aviation Cafe (KFHR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0262694,48.5277583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skagit Landing (KBVS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4141199,48.4722698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ellie's (KAWO)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.1535499,48.161671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spruce Goose Cafe (KTWD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8103774,48.0574148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buzz Inn Steakhouse (S43)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.0998238,47.9071203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wings Café (KBFI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.29672,47.5188103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hub Gig Harbor (KTIW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5747351,47.2690926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Top Gun Bar & Grill (KPLU)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.290318,47.1030029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starduster Cafe (7S5)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.196375,44.865552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Melita's Motel & Cafe (2S7)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.8813858,42.5814781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Breezy’s Wings & Wheels (KRBL)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.250801,40.1554031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nancy's Airport Cafe (KWLW)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2185381,39.5232902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wings Grill & Bar (KAUN)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.0803652,38.9528094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight Deck (KTVL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.9984512,38.8925934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taildragger Cafe (KMEV)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.75584,39.0002704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Aviator's Restaurant (KSAC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.4985558,38.5136645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Lounge (KSTS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8055313,38.510073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lodi Airport Cafe (1O3)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.2634841,38.2032325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Beeb's Sports Bar & Grill (KLVK)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.824902,37.696908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Kitchen (KSQL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2505194,37.5151667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pilot Light (KHAF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4951258,37.5141069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ella's (KWVI)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.7879689,36.9341876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flying Artichoke (KSNS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.6119227,36.6655685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woody’s (KMRY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.8507347,36.5874578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight Line Café (KFCH)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.8177984,36.7288704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Runway Cafe (O42)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.1016977,36.3977567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harris Ranch Express BBQ (3O8)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.2388804,36.2532716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airway Cafe (KPTV)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.0589878,36.0300008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Cafe (L05)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4173231,35.7213936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Aviator Casino (KDLO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.239855,35.745049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Joe's One-Niner Diner (KPRB)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.6380028,35.6719306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spirit of San Luis (KSBP)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.6405455,35.2387545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Raven's Nest Deli (L94)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4220771,35.1014433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Voyager Restaurant (KMHV)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.1578517,35.0565661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Guido's @ Hangar (L00)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2028381,34.8697172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight 126 Cafe (KSZP)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.0611848,34.3486536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waypoint Café (KCMA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.078288,34.2093136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cloverfield (KSMO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4460334,34.0158442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Annia's Kitchen (KEMT)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.0326674,34.0849134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wings Cafe (KFUL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.9798176,33.8704673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Norm's Hangar Coffee Shop (KPOC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.784507,34.0902503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maniac-Mikes Cafe (KCCB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.6845611,34.1114842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Last Name Brewing (KCCB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.690875,34.1092105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Flo's Cafe (KCNO)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.644559,33.9824507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corona Airport Café (KAJO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.5983298,33.8954766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riverside Cafe (KRAL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.446059,33.9507677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flabob Airport Cafe (KRIR)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.4083414,33.9901139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Aviator Cafe (KAPV)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1905965,34.5728333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Don Reyes Cafe (L26)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.3123877,34.3792811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Barnstorm (L35)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.8535617,34.2618177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bombshelter Rest (L65)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.2191595,33.7621147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar One Cafe (KHMT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.0170762,33.7311886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>French Valley Cafe (F70)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1300372,33.5759575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Landings (KCRQ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.2762096,33.1262483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Machado (KMYF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1413889,32.8127778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gillespie Field Cafe (KSEE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.9742333,32.8256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Landing Strip (KSDM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.985486,32.5698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smokejumper Cafe KWYS</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.1146159,44.6865107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bickering Sisters (KOGD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.0090258,41.1934123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marble Canyon Rest (KMYH)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.6382571,36.8165214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Roadkill Cafe/O.K. Saloon (P23)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.8833158,35.328552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Richie's Cafe (KRYN)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.1734117,32.1341061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jim Bobs BBQ (KLRU)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -106.9194782,32.2829371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Truck (KTRK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.1450319,39.3193024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[TONY'S KITCHEN (KAPC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2673171,38.218489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gyppo Ale Mill (0Q5)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0687598,40.0248729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Village Pizza (KSFM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.718307,43.4023149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar 12 (1B9)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.2008098,42.0048886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kimball Farm Jaffrey (KAFN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.0076618,42.8096247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Cloud Diner (KORE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.2818252,42.5747736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobiko Sushi (KBAF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.7196521,42.1597442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>U.S.S. Chowder Pot IV (KHFD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.6612239,41.7353828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New England Pizza (KIJD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.1802074,41.7389919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Illianos (KIJD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.1777556,41.7414239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LaBella's Sweet Shop (42B)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.4609724,41.4526002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Club Soda (KBID)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.566878,41.1714405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Amarante's Sea Cliff (KHVN)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.8989273,41.254936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lobster Shack (KHVN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.8627818,41.2467643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Knapp's Landing (KBDR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.1146063,41.1710671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Paula's Runway Cafe' (KPOU)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.882626,41.6243674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Landing On 20 (4B1)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.1330935,42.7610405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Slide Brewery (KLKP)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.970087,44.266075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sparks (KBFD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4497174,41.7407832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Katys (N56)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.6431884,42.2064286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Inn Rest (O74)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.5162056,40.5286667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Frisch's Big Boy (KMWO)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3844273,39.5323568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mi Camino Real (KPLY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.31139,41.364264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Coffee Trader (KMTJ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -107.8971953,38.5005089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horsefly Brewing (KMTJ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -107.8713778,38.4827556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mother Tucker’s Pizza (KLLU)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.2988815,37.4720687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drane’s Kurve Inn (I93)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.4488364,37.7785599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake House (2I3)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.5105895,37.6056137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagles Landing II (KFWQ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8332351,40.2075085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelby’s (KTDW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -101.8281758,35.1700266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jack's Airport Cafe (KLNC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7222833,32.5783078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mesquite Wood Bar-B-Q (2F0)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -101.8978385,30.912316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riziki Cafe (KIDI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.1028372,40.634785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Low and Slow Smokehouse (KJNX)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.3894195,35.5477981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sweet Cheezus (KDTN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7488911,32.5399407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ryan's Pizza & Hibachi (KARW)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.6340484,32.4068679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sweet Savannah's (KMTH)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0510595,24.7240886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dominick Pizzeria (KAPF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7658224,26.1527488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frisco Sandwich Co (KHSE)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.6262512,35.2334328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gelston House (42B)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.461791,41.4516627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[K J's Family Restaurant (27C)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.2638594,43.6265289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Conley's Bakery (27C)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.2645473,43.6265393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WACO Kitchen (KBTL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.25151,42.3031486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Margarita's Bar & Grill (KIGQ)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.5398741,41.5389466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Red Shed BBQ (KMRT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.3498458,40.2315826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buffalo Wild Wings (KGAS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.1588921,38.8303821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sturgs Family Diner (KTWT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.966038,37.536604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pilot House at the Cape Airport (KCGI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.5647901,37.2268871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Roundabout Bar & Grill (KRZN)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.3616561,45.8173446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redbarn Cafe (KSLR)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.6164471,33.1545675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Westside Lilo's Cafe (P23)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.8833834,35.3281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Crowbar Cafe & Saloon (L61)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.2698397,35.974743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beer Mule Pour House (KWVI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.7858327,36.9336891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pik N Pig (BQ1)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4372113,35.3406844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Barnstormer's Grill (GA2)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3763915,33.1808697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Elevation Chophouse & Skybar (KRYY)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6010398,34.0156531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The 57th Fighter Group (KPDK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3056722,33.8725869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Downwind Restaurant (KPDK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3043167,33.8773296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Flying Machine (KLZU)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.9652757,33.9742579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Josh’s Place (3B0)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.0375367,42.0997872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dominic's Diner (LWM)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.1212611,42.7144339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Plane Jane's Place (KPYM)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.7307293,41.9114723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Airport Grille (KEWB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.9584423,41.6738308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plane View (KMVY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.6119478,41.389447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crosswinds Restaurant (KACK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.0638391,41.256809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar B Eatery (KCQX)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -69.9922627,41.6887998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Common Ground Montauk (KMTP)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.9265645,41.0725836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Volo (KFOK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.6409132,40.8401757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westhampton Beach Brewing Company (KFOK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.6426057,40.8420975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wings Cafe (KHWV)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.8664097,40.8150294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nu-Cavu (N45)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.1413633,41.6227724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangars Cafe (44N)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.7349177,41.7060278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ADK CAVU Cafe (KSLK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.2034129,44.3805019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight Deck Diner (KWWD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.9081509,39.0054604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Verna's Flight Line (KMIV)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.0733167,39.3740821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apron Cafe (N81)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.7565204,39.6663839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Runway Cafe (KVAY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.8431646,39.9398254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pizza 'n Pasta (47N)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.5915627,40.5282891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ark Brewery, Restaurant (KVAY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.8528417,39.9417062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunter-Gatherer Brewery (KCUB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0018663,33.9765912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Runway Cafe (KGMU)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.350826,34.845058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nick's Airport Inn (KHGR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.7235278,39.7126417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Grille at Runways (KHGR)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.7294514,39.7109938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airways Inn of Frederick (KFDK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3797222,39.4158333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sugar Buns Cafe and Bakery (KESN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.0647399,38.8114304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>57 Alpha Airport Cafe (KFQD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.9373337,35.430097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[PK's Grill & Pub (5W4)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.1900273,35.0181965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1718 Brewing Ocracoke (W45)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.971818,35.107474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jason's Restaurant (W95)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.9725573,35.1070458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Howard's Pub (W95)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.9711339,35.1073375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Breeze (W95)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.973596,35.1071529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chubby Buddha (60J)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.4367174,33.9072005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Robin's Nest Cafe (KEZF)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4475346,38.268321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Charly's Airport (KJGG)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.71783,37.2412062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[King's Korner (KFCI)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.5212512,37.4073756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Simply Suzanne's Cafe (KMTV)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0153616,36.6312369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Pub (KFWN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.6274369,41.1994812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[DareDevil Deli & Bagel (KFWN)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.6273727,41.1994361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Airport Diner (KFWN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.6248317,41.2020658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sunset Pub & Grill (N07)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.3137512,40.951004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Airport Cafe (1N7)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.996122,40.969645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Cafe (N40)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.9767675,40.568635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miss Bea Havin (AKO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.2092217,40.1720515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[J P's BBQ (KTZR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.1375489,39.9049682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westport Pizza (14S)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1048581,46.8987436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Offshore Kitchen (14S)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1044425,46.8985206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Palmas Mexican (2J0)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.395371,29.9924376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Bob Gibson BBQ (KDCU)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.9783954,34.5794726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louise (KVBT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.2214701,36.3504611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport in the Sky (KAVX)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4149867,33.4021019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Flying Monkey (KHFD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.7054739,41.6967158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Arena's (KGED)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.3633575,38.6905021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Village Deli (KDNL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.034343,33.4702907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonnie Cafe (KMVN)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.8546659,38.3218895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avion Azul (KMCW)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.3357692,43.1530702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangar One Steak House (KICT)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.4118151,37.671513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[D.I.'s Cajun (LA52)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.5809137,30.3729821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pilots Cove Cafe (KSFM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.7105514,43.4011968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Joe-Lee's Crosswind Cafe (KRNP)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1412257,42.9945725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lions Tap (KFCM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.4820955,44.8183422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lambert's Café (KSIK)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.5465548,36.8879282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[B&B Runway Cafe (KSTJ)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9032065,39.7704295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>On The Way Cafe (26N)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.6045236,39.2628756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smoke Shack BBQ (4N1)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.3428648,41.1291983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crosswind Cafe (KHKY)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.3893244,35.7422011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vocelli Pizza (KDMV)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9993168,39.6061602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carroll County Airport Restaurant (KTSO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.078317,40.5623671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pronto Tacos (KPWA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.639877,35.5342235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Evelyn's Soul Food (KTUL)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.8951876,36.2005011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twin Peaks (4S2)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.5449023,45.6729558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mo's Seafood (KONP)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0549879,44.629045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fathead BBQ (KTMK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8048263,45.4204241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klingers Pub (KRDG)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.964184,40.3741117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Willy-Joe's Steak Shop (KXLL)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.4822144,40.5686515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dreamliner Diner (11R)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.3723994,30.2164378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Terry Black's BBQ (50R)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.6726363,29.8934954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cooper's BBQ (KAQO)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.6820798,30.7591805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Friday's Crabhouse (KFHR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0151448,48.5348239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fly Away Café (KCWA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6722455,44.7838383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thai Thai (KBIH)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.3666192,37.3713153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Landing Zone (KJEF)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.1648641,38.5933343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fingers (KLHM)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.3431444,38.9039679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mi Tierra (K05C)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.3977641,41.5219758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Como Italian (KIAG)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.945238,43.098598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Local Table and Tap (KMSV)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.8320115,41.6856687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dairy Queen (KCGC)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5791527,28.8722726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cody Coffee Roaster (KCOD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.03023,44.51351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Christo (KCOD)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.0247527,44.5166576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crosswinds Cafe (KMRB)</name>
+        <description>on the second floor</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.9821032,39.4001569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Byrd's Riverfront (51AR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7431319,35.6782341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Volanti (KSDL)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.9160587,33.6213779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pelicans Landing (3T0)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.8117156,33.8335777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suffolk BBQ (KSFQ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.6041059,36.6795106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lambert's Cafe (KNBJ)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.6821225,30.3707797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kevin's Club House (KPYM)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.7359924,41.9108886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jim & Paul's Superdog (KIAG)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.9383129,43.0999958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Flying W Airport & Resort (N14)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.8080139,39.9350814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willie and Red’s (I61)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.1606555,39.9110564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Corsair Café & Coffee (KHUF)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.3033384,39.4593867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Local (PAFA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -147.8681009,64.8171339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nugget (PASI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -135.3652038,57.0525588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Peggy's (PAMR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -149.850564,61.2177651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Everyone's East End Grill (KDEC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.8773631,39.8333225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Blakeslee's Bar and Grill (S18)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.3896017,47.938862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cliff Droppers (55S)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.6729939,46.603782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Garage (KFDK)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3821203,39.4167755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Goombays Grille & Raw Bar (KFFA)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.6673107,36.0302226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Captain George's Seafood (KFFA)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.6580195,36.0099824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jack Brown’s Beer & Burger Joint (KFFA)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.6553977,36.0100553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lost Colony Tavern (KMQI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.6695272,35.9095763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The SaltBox Cafe (KFFA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.6935078,36.0144697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Colington Cafe (KFFA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.678412,36.013553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copper Kettle (VG18)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.7658438,38.8173775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Legacy Cafe (KITH)</name>
+        <description>www.flyithaca.com</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4623432,42.4897892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silverbird Woodfired (KPEO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0522691,42.6612134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Crust Kitchen & Bar (KRME)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.4206949,43.2241686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clear Skies Cafe (KSPA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.9571894,34.9187276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stevensville Crab Shack</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.3236111,38.9772222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gate 12 Bar & Grill (KCLL)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.3586827,30.5898897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Potrillos Mexican (KADH)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.6783447,34.7963714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kentmorr (3W3)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.3640964,38.91517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canadian Restaurant</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3819081,35.917117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rick's Chophouse (KTKI)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.6160461,33.1975135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[A&D Buffalo's (KTKI)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.6178484,33.1808454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crazy Flamingo (KMKY)</name>
+        <description>Crew car available at KMKY</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7233929,25.9527491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kitty Hawk Cafe (KAZO)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.5575612,42.2273592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Good Time Charlie's Bar & Grill (KCLI)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.7333297,44.6199875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sheltair Aviation KFLL</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.155987,26.0693253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Pig Inn (KOWX)</name>
+        <description>Red Pig Inn will pick you up at the airport.</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -84.0387212,41.0324258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[KPOV Coffee & Bagel (KPOV)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.2489626,41.2091719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Filia Cellars (15G)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7988079,41.0253895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Whiffletree (0OH5)</name>
+        <description>1 MILE FROM AIRSTRIP</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -82.4252929,40.5879784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bearno's Pizza (KLOU)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6655981,38.2224097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slim Chickens (KBWG)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.4320092,36.9643092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Schuler's Restaurant (KRMY)]]></name>
+        <description><![CDATA[Schuler's will pick up at the airport.]]></description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -84.9608263,42.2713985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tri-State Airport Restaurant (KHTS)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5556846,38.3697135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Riverside Golf Club & Bistro (Including The Rooftop Bar) (KCLS)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9895986,46.6744239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Second to None Cafe (KYNG)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.6634045,41.2573418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liberty Family Dining (3DA)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.803079,43.059752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenbrier Valley Brewing (KLWB)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3986197,37.8636737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-way deli (KLOZ)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.0734138,37.0804398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fly In Cafe (7FL6)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0454056,29.0784013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trail House Kitchen & Bar (KAQW)]]></name>
+        <description>2-minute walk from the airport. </description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.1668136,42.7003154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Zapata's Mexican (T74)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.4295883,30.5683021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Charlie Ro's BBQ (T74)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.4296643,30.567778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lorraines Seafood (KTGI)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.9924546,37.8288368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anker Inn Smokehouse (C74)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.9632568,42.7052383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Route 4 Restaurant (KSAR)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.7041269,38.1446667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lollie's Cafe (KSAR)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.703961,38.146408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Ranchito (68S)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.1601403,47.6536973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Sky Bistro (KBJC)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -105.1118056,39.9096778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Katama Kitchen (1B2)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.5228995,41.3625296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Austin's Bar B Que (KADS)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.8306196,32.9688899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meridian Aviation (KMEI)</name>
+        <description>Food in the pilots lounge and crew cars are available so you can go downtown to check out other restaurants.</description>
+        <styleUrl>#icon-1567-7CB342-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -88.7434719,32.3363808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kings Steak House (KOUX)</name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.544826,34.3821681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mawa's Kitchen (KASE)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -106.8599934,39.2196795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jedediah's (KASE)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -106.8651854,39.2212368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Foxy's Landing (KWJF)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2162156,34.7388285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fourth & Field (6B6)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -71.5166344,42.4623912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kelly's Half Shell Pub (KCGC)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.581423,28.8678167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Stanton's Barbeque & Fish Camp]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6659667,34.7338795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bob's World Famous BBQ (KADH)]]></name>
+        <styleUrl>#icon-1567-7CB342-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.6781592,34.7963925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
