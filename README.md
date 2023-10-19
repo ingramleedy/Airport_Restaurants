@@ -74,8 +74,8 @@ the folder. This allows the content packs available to download and update
 automatically from all your devices (assuming you update new *content packs*
 in the shared folder).
 
-* FOREFLIGHT FEATURE REQUEST: Currently ForeFlight only allows one cloud provider. This solution could be
-improved to allow multiple cloud drive storage providers. 
+* FOREFLIGHT FEATURE REQUEST: Currently ForeFlight only allows one cloud provider to be in use at a time. This solution could be
+improved to allow multiple cloud drive storage providers to be used concurrently.
 
 Pilots may need access to multiple resources, companies, flight schools, 
 flight clubs, 3rd party content, etc. I envision a subscription service that
