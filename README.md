@@ -4,14 +4,13 @@ This repository is for pilot's using [ForeFlight](https://www.foreflight.com/) a
 Google Maps data from [Airport Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4).
 
 # What are ForeFlight Content Packs
-ForeFlight content packs allow organizations and individuals to create and import bundles of related content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses.
+ForeFlight *content packs* allow organizations and individuals to create and import bundles of related content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses.
 See [ForeFlight Content Pack Overview](https://www.foreflight.com/products/foreflight-mobile/user-content/content-packs) and [ForeFlight Content Pack Support](https://foreflight.com/support/content-packs/).
 
 # Airport Restaurant Content
 
 We all love a mission to fly somewhere to eat that is on location of an airport or just nearby
-walking distance.  This content pack provides a way to research and plan your destination using 
-the ForeFlight EFB.
+walking distance.  This *content pack* provides a directory of airport restaurants viewable as waypoints on the ForeFlight map page.  This allows you to research and plan your destination around food.
 
 The orignal was imported from an KML format and converted to
  a *ForeFlight* **content pack** that can easily imported in ForeFlight.
