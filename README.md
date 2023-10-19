@@ -50,11 +50,12 @@ viewed in flight without Internet connectivity.
 
 * A future version may add an additional offline *Profile* page with pictures, 
 addresses, and links to Google Maps for pictures, reviews, and menus 
-(for when you do have Internet connectivity).
+(for when you do have Internet connectivity).  Some automated way to create a
+template profile page from the content will need to be written.
 
-* Need an automated way to keep content up-to-date from the source(s) and to build the *content pack* automatically.
+* Automated way to keep content up-to-date from the source(s) and to build the *content pack* automatically.
 
-* Need a way to push the up-to-date *content pack* directly to ForeFlight. 
+* Automated way to push the up-to-date *content pack* directly to ForeFlight. 
 
 ## ForeFlight Feature Request
 
@@ -73,7 +74,7 @@ the folder. This allows the content packs available to download and update
 automatically from all your devices (assuming you update new *content packs*
 in the shared folder).
 
-* FOREFLIGHT FEATURE REQUESTION: Currently ForeFlight only allows one cloud provider. This solution could be
+* FOREFLIGHT FEATURE REQUEST: Currently ForeFlight only allows one cloud provider. This solution could be
 improved to allow multiple cloud drive storage providers. 
 
 Pilots may need access to multiple resources, companies, flight schools, 
@@ -81,11 +82,12 @@ flight clubs, 3rd party content, etc. I envision a subscription service that
 provided valuable content on various contant that would currate and 
 keep up-to-date.
 
+Send your support for these request to [ForeFlight Support support@foreflight.com](mailto:support@foreflight.com).
+
  
 # Legal Disclaimer
 
 All files are provided for educational purposes only. They are not to
 be used as a navigation tool. No claim is made regarding the accuracy
 of these charts and their contents.
-
 
