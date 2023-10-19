@@ -29,7 +29,7 @@ This work was inspired by others:
 
 * Facebook Group [$100 Fly In Restaurants U.S.](https://www.facebook.com/groups/835536180175591) specifically Tad Smith's "Master List" and Shannon Harris work of converting this to a map.
 * Facebook Group [Airport Based Restaurants](https://www.facebook.com/groups/724017862273138)
-* Google Maps[Airport Based Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4)
+* Google Maps [Airport Based Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4)
 * Flying Home Florida for the source of the [Google Map](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4) data used
 
 ## Use and Importing into ForeFlight 
@@ -46,7 +46,7 @@ page](https://www.foreflight.com/support/content-packs/) (search for
 ## History and Future 
 
 * Version 1.0 is a working concept.  Content Packs allow offline content to 
-downloaded while without Internet connectivity.  
+viewed in flight without Internet connectivity.  
 
 * A future version may add an additional offline *Profile* page with pictures, 
 addresses, and links to Google Maps for pictures, reviews, and menus 
@@ -59,20 +59,21 @@ addresses, and links to Google Maps for pictures, reviews, and menus
 ## ForeFlight Feature Request
 
 Keeping this content up-to-date requires updating the content pack contents 
-and then re-downloading the content pack and re-importing if you want the 
-latest changes.  
+and then re-downloading the content pack and re-importing for the 
+latest changes. 
 
-* I have asked ForeFlight for a feature to allow content packs to be downloaded
+* FOREFLIGHT FEATURE REQUEST: Allow content packs to be downloaded
 directly and updated from a URL. Currently you can download from a URL, but 
 ForeFlight does not keep the content up-to-date on changes.
 
-Another method is to add to your cloud storage for Performance Plus 
+Another method is to add to your cloud storage for *Performance Plus* 
 subscribers of ForeFlight, by adding a folder named 
 *contentpacks* to the root folder and place your content packs in
-the folder. This will make the content packs available to download and update
-automatically (assuming you put a new content pack in the shared folder).
+the folder. This allows the content packs available to download and update
+automatically from all your devices (assuming you update new *content packs*
+in the shared folder).
 
-* Currently ForeFlight only allows one cloud provider. This solution could be
+* FOREFLIGHT FEATURE REQUESTION: Currently ForeFlight only allows one cloud provider. This solution could be
 improved to allow multiple cloud drive storage providers. 
 
 Pilots may need access to multiple resources, companies, flight schools, 
