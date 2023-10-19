@@ -24,13 +24,13 @@ the content pack is imported and selected from maps.
   <img width="600" src="docs/img/florida.jpg" />
 </p>
 
-## Content
+## Restaurant Content
 
 This work was inspired by others:
 
 Facebook Group [$100 Fly In Restaurants U.S.](https://www.facebook.com/groups/835536180175591) specifically Tad Smith's "Master List" and Shannon Harris work of converting this to a map.
 Facebook Group [Airport Based Restaurants](https://www.facebook.com/groups/724017862273138)
-Google Maps[Airport Based Restaurants][Airport Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4)
+Google Maps[Airport Based Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4)
 
 ## Use and Importing into ForeFlight 
 
@@ -49,7 +49,8 @@ page](https://www.foreflight.com/support/content-packs/) (search for
 downloaded while without Internet connectivity.  
 
 * A future version may add an additional *Profile* page with pictures, 
-addresses, and links to Google Maps (for when you do have Internet connectivity).
+addresses, and links to Google Maps for pictures, reviews, and menus 
+(for when you do have Internet connectivity).
 
 ## ForeFlight Feature Request
 
@@ -61,12 +62,18 @@ latest changes.
 directly and updated from a URL. Currently you can download from a URL, but 
 ForeFlight does not keep the content up-to-date on changes.
 
-* Another method is to add to your cloud storage, and add a directory named 
+Another method is to add to your cloud storage, and add a directory named 
 *contentpacks* to the root of the directory and place your content packs in
 the folder. This will make the content packs available to download and update
-automatically.   This solution could be improved to allow multiple cloud drive
-storage providers. Currently ForeFlight only allows one cloud provider.  
-I could envision a service that you can subscribe to custom content packs.
+automatically (assuming you put a new content pack in the shared folder).
+
+* Currently ForeFlight only allows one cloud provider. This solution could be
+improved to allow multiple cloud drive storage providers. 
+
+Pilots may need access to multiple resources, companies, flight schools, 
+flight clubs, 3rd party content, etc. I envision a subscription service that
+provided valuable content on various contant that would currate and 
+keep up-to-date.
 
  
 # Legal Disclaimer
