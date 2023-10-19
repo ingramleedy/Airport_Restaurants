@@ -1,8 +1,12 @@
 # Airport Based Restaurants
 
-This repository contains a copy of the Airport Based Restaurants from 
+This repository contains a ForeFlight *content pack* of a copy of the Airport Based Restaurants from 
 data from Google Maps of [Airport Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4).
 
+# What are ForeFlight Content Packs
+ForeFlight content packs allow organizations and individuals to create and import bundles of related content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses.
+
+# Content
 The orignal was imported from an KML format and converted to
  a *ForeFlight* **content pack** that can easily imported in ForeFlight.
 
@@ -19,10 +23,10 @@ the content pack is importanted and selected from maps.
 This work was inspired by others:
 
 Facebook Group [$100 Fly In Restaurants U.S.](https://www.facebook.com/groups/835536180175591) specifically Tad Smith's "Master List" and Shannon Harris work of converting this to a map.
-Facebook Group [Airport Based Restaurants] https://www.facebook.com/groups/724017862273138
+Facebook Group [Airport Based Restaurants](https://www.facebook.com/groups/724017862273138)
 Google Maps[Airport Based Restaurants][Airport Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4)
 
-## Instructions
+## Use and Importing into ForeFlight 
 
 For instructions on how to download and import the Content Packs into
 Foreflight (**recommended**), please browse the `contentpacks`
@@ -31,6 +35,10 @@ app. Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
 page](https://www.foreflight.com/support/content-packs/) (search for
 "Importing Content Packs").
+
+## Creating your own Content Packs
+
+https://foreflight.com/support/content-packs/
 
 
 ## History and Future 
