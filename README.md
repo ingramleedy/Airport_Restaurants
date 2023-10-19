@@ -1,6 +1,6 @@
 # Airport Based Restaurants
 
-This repository is for pilot's using [ForeFlight](https://www.foreflight.com/) and contains a *content pack* copy of the Airport Based Restaurants from 
+This repository is for pilot's using the electronic flight back (EFB) [ForeFlight](https://www.foreflight.com/) app and contains a *content pack* copy of the Airport Based Restaurants from 
 Google Maps data from [Airport Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4).
 
 # What are ForeFlight Content Packs
