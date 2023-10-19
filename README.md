@@ -5,8 +5,10 @@ data from Google Maps of [Airport Restaurants](https://www.google.com/maps/d/emb
 
 # What are ForeFlight Content Packs
 ForeFlight content packs allow organizations and individuals to create and import bundles of related content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses.
+See [ForeFlight Content Pack Overview](https://www.foreflight.com/products/foreflight-mobile/user-content/content-packs) and [ForeFlight Content Pack Support](https://foreflight.com/support/content-packs/).
 
-# Content
+# Airport Restaurant Content
+
 The orignal was imported from an KML format and converted to
  a *ForeFlight* **content pack** that can easily imported in ForeFlight.
 
@@ -35,10 +37,6 @@ app. Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
 page](https://www.foreflight.com/support/content-packs/) (search for
 "Importing Content Packs").
-
-## Creating your own Content Packs
-
-https://foreflight.com/support/content-packs/
 
 
 ## History and Future 
