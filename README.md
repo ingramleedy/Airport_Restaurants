@@ -11,7 +11,7 @@ the content pack is importanted and selected from maps.
 
 
 <p align="center">
-  <img width="600" src="docs/img/florida.png" />
+  <img width="600" src="docs/img/florida.jpg" />
 </p>
 
 ## Content
