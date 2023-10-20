@@ -39,7 +39,7 @@ Foreflight (**recommended**), please browse the `contentpacks`
 directory of this repository and download/share **[Airport Restaurants.zip](https://ingramleedy.github.io/Airport_Restaurants/contentpacks/Airport%20Restaurants.zip)** into the
 app.   
 
-You may also use this direct link for [Airport Restaurants](https://ingramleedy.github.io/Airport_Restaurants/contentpacks/Airport%20Restaurants.zip)
+You may also use this direct link [https://ingramleedy.github.io/Airport_Restaurants/contentpacks/Airport%20Restaurants.zip](https://ingramleedy.github.io/Airport_Restaurants/contentpacks/Airport%20Restaurants.zip) to download directly.
 
 Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
