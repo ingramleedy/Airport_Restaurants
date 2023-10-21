@@ -123,8 +123,8 @@ Send your support for these request to ForeFlight Support [support@foreflight.co
 
 ## DataSets ##
 
-World arport data is provided GitHub repository [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data).
-Location data is provided by [Google Maps API](https://developers.google.com/maps). 
+* World arport data is provided GitHub repository [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data).
+* Location data is provided by [Google Maps API](https://developers.google.com/maps). 
  
 # Legal Disclaimer
 
