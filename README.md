@@ -36,6 +36,7 @@ Foreflight are available at their [support
 page](https://www.foreflight.com/support/content-packs/) 
 
 Video tutorial example of how to import a content pack from this page:
+
 [![Video](https://img.youtube.com/vi/LgebFEuTn78/hqdefault.jpg)](https://www.youtube.com/watch?v=LgebFEuTn78)
 
 *Please note that these content packs are only updated when a new version is created. You must also update your 
