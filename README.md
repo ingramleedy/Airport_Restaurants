@@ -124,6 +124,43 @@ BS-WG	|West Grand Bahama
 Current version **2023.10.21**
 
 Download each content pack by state for ForeFlight:
+
+code	|name
+--------|-------------------------------
+MX-AGU	|Aguascalientes
+MX-BCN	|Baja California
+MX-BCS	|Baja California Sur
+MX-CAM	|Campeche
+MX-CHH	|Chihuahua
+MX-CHP	|Chiapas
+MX-COA	|Coahuila
+MX-COL	|Colima
+MX-DIF	|Ciudad de MÃ©xico
+MX-DUR	|Durango
+MX-GRO	|Guerrero
+MX-GUA	|Guanajuato
+MX-HID	|Hidalgo
+MX-JAL	|Jalisco
+MX-MEX	|Mexico (state)
+MX-MIC	|Michoacan
+MX-MOR	|Morelos
+MX-NAY	|Nayarit
+MX-NLE	|Nuevo Lean
+MX-OAX	|Oaxaca
+MX-PUE	|Puebla
+MX-QUE	|Querataro
+MX-ROO	|Quintana Roo
+MX-SIN	|Sinaloa
+MX-SLP	|San Luis Potosa­
+MX-SON	|Sonora
+MX-TAB	|Tabasco
+MX-TAM	|Tamaulipas
+MX-TLA	|Tlaxcala
+MX-U-A	|(unassigned)
+MX-VER	|Veracruz
+MX-YUC	|Yucatan
+MX-ZAC	|Zacatecas
+
 <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-AGU.zip">MX-AGU</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-BCN.zip">MX-BCN</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-BCS.zip">MX-BCS</a>
 <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-CAM.zip">MX-CAM</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-CHH.zip">MX-CHH</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-CHP.zip">MX-CHP</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-COA.zip">MX-COA</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-COL.zip">MX-COL</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-DIF.zip">MX-DIF</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-DUR.zip">MX-DUR</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-GRO.zip">MX-GRO</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-GUA.zip">MX-GUA</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-HID.zip">MX-HID</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-JAL.zip">MX-JAL</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-MEX.zip">MX-MEX</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-MIC.zip">MX-MIC</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-MOR.zip">MX-MOR</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-NAY.zip">MX-NAY</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-NLE.zip">MX-NLE</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-OAX.zip">MX-OAX</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-PUE.zip">MX-PUE</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-QUE.zip">MX-QUE</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-ROO.zip">MX-ROO</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-SIN.zip">MX-SIN</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-SLP.zip">MX-SLP</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-SON.zip">MX-SON</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-TAB.zip">MX-TAB</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-TAM.zip">MX-TAM</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-TLA.zip">MX-TLA</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-VER.zip">MX-VER</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-YUC.zip">MX-YUC</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/MX-ZAC.zip">MX-ZAC</a> |
 
