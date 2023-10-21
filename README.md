@@ -35,6 +35,9 @@ Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
 page](https://www.foreflight.com/support/content-packs/) 
 
+<iframe width="1280" height="1147" src="https://www.youtube.com/embed/LgebFEuTn78" title="Example of how to import the Airport Restaurants content packs for ForeFlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 *Please note that these content packs are only updated when a new version is created. You must also update your 
 local copy of ForeFlight content packs by re-downloading and re-importing into ForeFlight.   We hope that ForeFlight
 will add additional features to allow for automatic updates of content packs.*
