@@ -80,6 +80,42 @@ Current version **2023.10.21**
 
 Download each content pack by state for ForeFlight:
 
+code	|name
+--------|-------------------------------
+BS-AK	|Acklins
+BS-BI	|Bimini
+BS-BP	|Black Point
+BS-BY	|Berry Islands
+BS-CE	|Central Eleuthera
+BS-CI	|Cat Island
+BS-CK	|Crooked Island and Long Cay
+BS-CO	|Central Abaco
+BS-CS	|Central Andros
+BS-EG	|East Grand Bahama
+BS-EX	|Exuma
+BS-FP	|City of Freeport
+BS-GC	|Grand Cay
+BS-HI	|Harbour Island
+BS-HT	|Hope Town
+BS-IN	|Inagua
+BS-LI	|Long Island
+BS-MC	|Mangrove Cay
+BS-MG	|Mayaguana
+BS-MI	|Moore's Island
+BS-NE	|North Eleuthera
+BS-NO	|North Abaco
+BS-NP	|New Providence
+BS-NS	|North Andros
+BS-RC	|Rum Cay
+BS-RI	|Ragged Island
+BS-SA	|South Andros
+BS-SE	|South Eleuthera
+BS-SO	|South Abaco
+BS-SS	|San Salvador
+BS-SW	|Spanish Wells
+BS-U-A	|(unassigned)
+BS-WG	|West Grand Bahama
+
 <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-AK.zip">BS-AK</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-BI.zip">BS-BI</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-BY.zip">BS-BY</a>
 <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-CE.zip">BS-CE</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-CI.zip">BS-CI</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-CK.zip">BS-CK</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-CO.zip">BS-CO</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-EG.zip">BS-EG</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-EX.zip">BS-EX</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-FP.zip">BS-FP</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-HI.zip">BS-HI</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-IN.zip">BS-IN</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-LI.zip">BS-LI</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-MG.zip">BS-MG</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-NO.zip">BS-NO</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-NP.zip">BS-NP</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-NS.zip">BS-NS</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-RC.zip">BS-RC</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-RI.zip">BS-RI</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-SA.zip">BS-SA</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-SE.zip">BS-SE</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-SO.zip">BS-SO</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-SS.zip">BS-SS</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/BS-WG.zip">BS-WG</a> |
 
