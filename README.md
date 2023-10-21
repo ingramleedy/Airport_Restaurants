@@ -96,25 +96,23 @@ template profile page from the content will need to be written.
 
 ## ForeFlight Feature Request to Automatically Update New Versions
 
-Keeping this content up-to-date requires updating the content pack contents 
-and then re-downloading the content pack and re-importing for the 
-latest changes. 
+Keeping this *content packs* updated once imported into ForeFlight requires re-downloading
+newer content packs and re-importing into ForeFlight.  
 
-* FOREFLIGHT FEATURE REQUEST: Allow content packs to be downloaded
-directly and updated from a URL. Currently you can download from a URL, but 
-ForeFlight does not keep the content up-to-date on changes.
+#### Feature Request ####
+- The ability for content packs to be downloaded and updated from a URL. 
 
-Another method is to add to your cloud storage for *Performance Plus* 
+  - Another method is to add to your cloud storage for *Performance Plus* 
 subscribers of ForeFlight, by adding a folder named 
 *contentpacks* to the root folder and place your content packs in
 the folder. This allows the content packs available to download and update
 automatically from all your devices (assuming you update new *content packs*
 in the shared folder).
 
-* FOREFLIGHT FEATURE REQUEST: Currently ForeFlight only allows one cloud provider to be in use at a time. This solution could be
+- ForeFlight only allows one cloud provider to be in use at a time. This solution could be
 improved to allow multiple cloud drive storage providers to be used concurrently.
 
-Pilots may need access to multiple resources, companies, flight schools, 
+  - Pilots may need access to multiple resources, companies, flight schools, 
 flight clubs, 3rd party content, etc. I envision a subscription service that
 provided valuable content on various contant that would currate and 
 keep up-to-date.
