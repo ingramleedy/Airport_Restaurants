@@ -10,10 +10,7 @@ See [ForeFlight Content Pack Overview](https://www.foreflight.com/products/foref
 # Airport Restaurant Content
 
 We all love a mission to fly somewhere to eat that is on location of an airport or just nearby
-walking distance.  This *content pack* provides a directory of airport restaurants viewable as waypoints on the ForeFlight map page.  This allows you to research and plan your destination around food.
-
-The orignal was imported from an KML format and converted to
- a *ForeFlight* **content pack** that can easily imported in ForeFlight.
+walking distance.  These *content pack* provides a directory of airport restaurants viewable as waypoints on the ForeFlight map page.  This allows you to research and plan your destination around food.
 
 As an example, this is how the restaurants are shown over Florida, once
 the content pack is imported and selected from maps. 
@@ -31,7 +28,8 @@ This work was inspired by others:
 * Facebook Group [Airport Based Restaurants](https://www.facebook.com/groups/724017862273138)
 * Google Maps [Airport Based Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4)
 * Flying Home Florida for the source of the [Google Map](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4) data used
-
+* Google Maps API for buidling the lists withing one mile (1-mile) radius of the airport and providing reviews, menus, ratings, etc when Internet access is available.
+  
 ## Use and Importing into ForeFlight 
 
 Detailed instructions about how to import Content Packs into
@@ -66,7 +64,7 @@ template profile page from the content will need to be written.
    * Need automated way to keep content up-to-date from the source(s) and to build the *content pack* automatically.
    * Need automated way to push the up-to-date *content pack* directly to ForeFlight. 
 
-## ForeFlight Feature Request
+## ForeFlight Feature Request to Automatically Update New Versions
 
 Keeping this content up-to-date requires updating the content pack contents 
 and then re-downloading the content pack and re-importing for the 
