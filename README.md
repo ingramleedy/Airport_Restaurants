@@ -1,15 +1,17 @@
-# What is Airport Based Restaurants?
+# Airport Restaurants
 
-This repository is for pilot's using the electronic flight bag (EFB) [ForeFlight](https://www.foreflight.com/) app and contains selectable ForeFlight *content packs* that provide map overlays of restaurants at or near airports. 
+This repository is for pilot's who love a mission to fly and eat somewhere that is on location
+of an airport or just nearby walking distance.  
 
-# What are ForeFlight Content Packs
-ForeFlight *content packs* allow organizations and individuals to create and import bundles of related content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses.
-See [ForeFlight Content Pack Overview](https://www.foreflight.com/products/foreflight-mobile/user-content/content-packs) and [ForeFlight Content Pack Support](https://foreflight.com/support/content-packs/).
+Many pilot's use ForeFlight as their electronic flight bag (EFB) [ForeFlight](https://www.foreflight.com/) app,
+which contains a feature to download and import custom *content packs* that contain  bundles of related 
+content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses.
+See [ForeFlight Content Pack Overview](https://www.foreflight.com/products/foreflight-mobile/user-content/content-packs) and [ForeFlight Content Pack Support](https://foreflight.com/support/content-packs/) 
+for more details.
 
 # Airport Restaurant's Content
 
-We all love a mission to fly somewhere to eat that is on location of an airport or just nearby
-walking distance.  These *content pack* provides a directory of airport restaurants viewable as waypoints on the ForeFlight map page.  This allows you to research and plan your destination around food.
+This respository maintains a directory of airport restaurants viewable as waypoints on the ForeFlight map page by using the ForeFlight *content packs*.  This allows you to research and plan your destination around food.
 
 As an example, this is how the restaurants are shown over Florida, once
 the content pack is imported and selected from maps. 
