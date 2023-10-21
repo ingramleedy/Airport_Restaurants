@@ -49,22 +49,22 @@ page](https://www.foreflight.com/support/content-packs/) (search for
 
 ## History and Future 
 * Version 2023.10.20 -
-- Complete re-work and sourced data from Google Maps of
+   * Complete re-work and sourced data from Google Maps of
 all restaurants within a one mile (1-mile) radius of all airports in the US.
-- Added links to rich online data when a waypoint is selected.
-- Added breakout by states.
+   * Added links to rich online data when a waypoint is selected.
+   * Added breakout by states.
 
-* Version 1.0 is a working concept.  Content Packs allow offline content to 
+* Version 1.0
+   * Working concept.
+   * Content Packs allow offline content to 
 viewed in flight without Internet connectivity.  
-
-* A future version may add an additional offline *Profile* page with pictures, 
+   * A future version may add an additional offline *Profile* page with pictures, 
 addresses, and links to Google Maps for pictures, reviews, and menus 
-(for when you do have Internet connectivity).  Some automated way to create a
+(for when you do have Internet connectivity).
+   * Need automated way to create a
 template profile page from the content will need to be written.
-
-* Automated way to keep content up-to-date from the source(s) and to build the *content pack* automatically.
-
-* Automated way to push the up-to-date *content pack* directly to ForeFlight. 
+   * Need automated way to keep content up-to-date from the source(s) and to build the *content pack* automatically.
+   * Need automated way to push the up-to-date *content pack* directly to ForeFlight. 
 
 ## ForeFlight Feature Request
 
