@@ -35,11 +35,11 @@ Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
 page](https://www.foreflight.com/support/content-packs/) 
 
-1. In general, **select** each desired region below
-2. A box will popup, **Do you want to download file.zip?**, select **Download**
-3. Top of safari will show a download icon (next to the address bar), **select** the download icon
-4. **Select** the file you just download. This will open the **files** app.
-5. **Select** and **hold** the respective file and select **Share**
+1. In general, **select** each desired region below to download
+2. A dialog withh popup, **Do you want to download file.zip?**, select **Download**
+3. At the top of the Safari app shows a small **download icon** *(next to the address bar)*, **select** the **download icon**
+4. **Select** the file you just downloaded to open the **files** app.
+5. In the files app, **Select** and **hold** the respective file and select **Share**
 6. **Select** ForeFlight app
 7. ForeFlight will show a dialog **Unpacking content**, and then show another dialog **Conent Pack Installed** when completed.
 8. Click **OK**
