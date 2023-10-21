@@ -27,7 +27,7 @@ This work was inspired by others:
 * [$100 Fly In Restaurants U.S. Facebook Group](https://www.facebook.com/groups/835536180175591) specifically Tad Smith's "Master List" and Shannon Harris work of converting this to a map.
 * [Airport Based Restaurants Facebook Group](https://www.facebook.com/groups/724017862273138)
 * [Airport Based Restaurants on Google Maps](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4)
-* [Flying Home's Airport Restaurants across the US Google Map](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4) for the inital idea data used
+* [AJ Poirier's Flying Home's Airport Restaurants across the US Google Map](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4) for the inital idea data used
   
 ## Importing Airport Restaurant's Content Packs into ForeFlight for Use 
 
