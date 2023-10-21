@@ -52,7 +52,7 @@ Download each content pack by state for ForeFlight:
 
 Current version **2023.10.21**
 
-Download each content pack by state for ForeFlight:
+Download each content pack by region for ForeFlight:
 
 code	|name
 --------|-------------------------------
@@ -78,7 +78,7 @@ CA-YT	|Yukon
 
 Current version **2023.10.21**
 
-Download each content pack by state for ForeFlight:
+Download each content pack by region for ForeFlight:
 
 code	|name
 --------|-------------------------------
@@ -123,7 +123,7 @@ BS-WG	|West Grand Bahama
 
 Current version **2023.10.21**
 
-Download each content pack by state for ForeFlight:
+Download each content pack by region for ForeFlight:
 
 code	|name
 --------|-------------------------------
