@@ -34,7 +34,7 @@ This work was inspired by others:
 Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
 page](https://www.foreflight.com/support/content-packs/) 
-(search for "Importing Content Packs").
+
 
 ### North America - United States - Region ###
 
