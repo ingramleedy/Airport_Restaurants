@@ -48,6 +48,11 @@ page](https://www.foreflight.com/support/content-packs/) (search for
 
 
 ## History and Future 
+* Version 2023.10.20 -
+- Complete re-work and sourced data from Google Maps of
+all restaurants within a one mile (1-mile) radius of all airports in the US.
+- Added links to rich online data when a waypoint is selected.
+- Added breakout by states.
 
 * Version 1.0 is a working concept.  Content Packs allow offline content to 
 viewed in flight without Internet connectivity.  
