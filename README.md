@@ -54,6 +54,23 @@ Current version **2023.10.21**
 
 Download each content pack by state for ForeFlight:
 
+code	|name
+--------|-------------------------------
+CA-AB	|Alberta
+CA-BC	|British Columbia
+CA-MB	|Manitoba
+CA-NB	|New Brunswick
+CA-NL	|Newfoundland and Labrador
+CA-NS	|Nova Scotia
+CA-NT	|Northwest Territories
+CA-NU	|Nunavut
+CA-ON	|Ontario
+CA-PE	|Prince Edward Island
+CA-QC	|Quebec
+CA-SK	|Saskatchewan
+CA-U-A	|(unassigned)
+CA-YT	|Yukon
+
 <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-AB.zip">CA-AB</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-BC.zip">CA-BC</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-MB.zip">CA-MB</a>
 <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-NB.zip">CA-NB</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-NL.zip">CA-NL</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-NS.zip">CA-NS</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-NT.zip">CA-NT</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-NU.zip">CA-NU</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-ON.zip">CA-ON</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-PE.zip">CA-PE</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-QC.zip">CA-QC</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-SK.zip">CA-SK</a> | <a href="https://ingramleedy.github.io/Airport_Restaurants/contentpacks/CA-YT.zip">CA-YT</a> |
 
