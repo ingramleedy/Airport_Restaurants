@@ -1,20 +1,18 @@
-# Airport Based Restaurants
+# What is Airport Based Restaurants?
 
-This repository is for pilot's using the electronic flight bag (EFB) [ForeFlight](https://www.foreflight.com/) app and contains a *content pack* copy of the Airport Based Restaurants from 
-Google Maps data from [Airport Restaurants](https://www.google.com/maps/d/embed?mid=1ESeubCk9sDWafBt8iQ4dzXu97tftJBQ&hl=en&ehbc=2E312F&fbclid=IwAR0pxghD-9-qjVp166ebeCYMnEOpqAXOfqoKARUX1Tr5rWK2F8bplGpDelg&ll=48.50138401582604%2C-109.82212150000001&z=4).
+This repository is for pilot's using the electronic flight bag (EFB) [ForeFlight](https://www.foreflight.com/) app and contains selectable ForeFlight *content packs* that provide map overlays of restaurants at or near airports. 
 
 # What are ForeFlight Content Packs
 ForeFlight *content packs* allow organizations and individuals to create and import bundles of related content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses.
 See [ForeFlight Content Pack Overview](https://www.foreflight.com/products/foreflight-mobile/user-content/content-packs) and [ForeFlight Content Pack Support](https://foreflight.com/support/content-packs/).
 
-# Airport Restaurant Content
+# Airport Restaurant's Content
 
 We all love a mission to fly somewhere to eat that is on location of an airport or just nearby
 walking distance.  These *content pack* provides a directory of airport restaurants viewable as waypoints on the ForeFlight map page.  This allows you to research and plan your destination around food.
 
 As an example, this is how the restaurants are shown over Florida, once
 the content pack is imported and selected from maps. 
-
 
 <p align="center">
   <img width="600" src="docs/img/florida.jpg" />
