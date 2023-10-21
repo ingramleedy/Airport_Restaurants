@@ -44,7 +44,7 @@ page](https://www.foreflight.com/support/content-packs/)
 7. ForeFlight will show a dialog **Unpacking content**, and then show another dialog **Conent Pack Installed** when completed.
 8. Click **OK**
 9. **Close** ForeFlight app and **Re-Launch**.  This will refresh the content pack with its associated content.
-10. Choose **Maps** page in ForeFlight and choose **Aero & Category** from maps layers and **select** the associated content pack name to activate the layer.
+10. Choose the **Maps** page in ForeFlight and choose **Aero & Category** from maps layers and **select** the associated content pack name to activate the layer.
 
 
 Video tutorial example of how to import a content pack from this page:
