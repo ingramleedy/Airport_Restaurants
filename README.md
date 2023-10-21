@@ -101,7 +101,8 @@ newer content packs and re-importing into ForeFlight.
 
 #### Feature Request ####
 
-- The ability for content packs to be downloaded and updated from a URL. 
+- The ability for content packs to be downloaded and updated from a URL.
+  - This would be the simplest method, a link to selected and added to downloads list and ForeFlight would periodically check for new updates. This would function the same way Downloads from ForeFlight work. Client could always delete content pack they no longer want to recieve.  
 
 - Allow multiple cloud drive providers to be be in use currently.
   - The cloud storage feature is only available for *Performance Plus* subscribers of ForeFlight which by adding a folder named *contentpacks* to the root folder, content packs in
