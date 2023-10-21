@@ -104,13 +104,9 @@ newer content packs and re-importing into ForeFlight.
 - The ability for content packs to be downloaded and updated from a URL. 
 
 - Allow multiple cloud drive providers to be be in use currently.
-  - Cloud storage is only available for *Performance Plus* subscribers of ForeFlight
-  - By adding a folder named *contentpacks* to the root folder, content packs in
-the folder are automatically available to download and update
-  - Pilots may need access to multiple resources, companies, flight schools, 
-flight clubs, 3rd party content, etc. I envision a subscription service that
-provided valuable content on various contant that would currate and 
-keep up-to-date.
+  - The cloud storage feature is only available for *Performance Plus* subscribers of ForeFlight which by adding a folder named *contentpacks* to the root folder, content packs in
+the folder are automatically available to download and update. However only one cloud provider is available concurrently. Pilots may need access to multiple resources, companies, flight schools, 
+flight clubs, 3rd party content, etc. I envision a subscription service that provided valuable content on various contant that would currate and  keep up-to-date.
 
 Send your support for these request to ForeFlight Support [support@foreflight.com](mailto:support@foreflight.com).
 
