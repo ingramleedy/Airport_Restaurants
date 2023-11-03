@@ -70,6 +70,8 @@ Download each content pack by state for ForeFlight:
 
 Current version **2023.10.21**
 
+Restaurants: **1,395**
+
 Download each content pack by region for ForeFlight:
 
 code	|name
@@ -95,6 +97,8 @@ CA-YT	|Yukon
 ### North America - Bahamas - Region ###
 
 Current version **2023.10.21**
+
+Restaurants: **52**
 
 Download each content pack by region for ForeFlight:
 
@@ -140,6 +144,8 @@ BS-WG	|West Grand Bahama
 ### North America - Mexico - Region ###
 
 Current version **2023.10.21**
+
+Restaurants: **3,934**
 
 Download each content pack by region for ForeFlight:
 
