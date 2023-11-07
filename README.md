@@ -235,7 +235,7 @@ Send your support for these request to ForeFlight Support [support@foreflight.co
 * Location data is provided by [Google Maps API](https://developers.google.com/maps).
 
 # Other related projects
-[Cross Border Flying](https://github.com/ingramleedy/Airport_Restaurants](https://github.com/ingramleedy/Cross-Border-Flying/) - ForeFlight content packs for pilot's travel across the US borders and deal with US Customs and Border Patrol (US CBP), Mexico, Canada, and Bahamas
+[Cross Border Flying](https://github.com/ingramleedy/Cross-Border-Flying/) - ForeFlight content packs for pilot's travel across the US borders and deal with US Customs and Border Patrol (US CBP), Mexico, Canada, and Bahamas
 
  
 # Legal Disclaimer
