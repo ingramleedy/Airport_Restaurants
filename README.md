@@ -232,11 +232,16 @@ Send your support for these request to ForeFlight Support [support@foreflight.co
 ## DataSets ##
 
 * World arport data is provided GitHub repository [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data).
-* Location data is provided by [Google Maps API](https://developers.google.com/maps). 
+* Location data is provided by [Google Maps API](https://developers.google.com/maps).
+
+# Other related projects
+[Cross Border Flying]([https://github.com/ingramleedy/Airport_Restaurants](https://github.com/ingramleedy/Cross-Border-Flying/)) - ForeFlight content packs for pilot's travel across the US borders and deal with US Customs and Border Patrol (US CBP), Mexico, Canada, and Bahamas
+
  
 # Legal Disclaimer
 
 All files are provided for educational purposes only. They are not to
 be used as a navigation tool. No claim is made regarding the accuracy
 of these charts and their contents.
+
 
